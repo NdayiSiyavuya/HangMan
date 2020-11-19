@@ -1,0 +1,26 @@
+C:\Users\Mickyle\source\repos\FutureInnoLab\HangmanCON\HangmanCON\bin\Debug\netcoreapp3.1\HangmanCON.exe
+C:\Users\Mickyle\source\repos\FutureInnoLab\HangmanCON\HangmanCON\bin\Debug\netcoreapp3.1\HangmanCON.deps.json
+C:\Users\Mickyle\source\repos\FutureInnoLab\HangmanCON\HangmanCON\bin\Debug\netcoreapp3.1\HangmanCON.runtimeconfig.json
+C:\Users\Mickyle\source\repos\FutureInnoLab\HangmanCON\HangmanCON\bin\Debug\netcoreapp3.1\HangmanCON.runtimeconfig.dev.json
+C:\Users\Mickyle\source\repos\FutureInnoLab\HangmanCON\HangmanCON\bin\Debug\netcoreapp3.1\HangmanCON.dll
+C:\Users\Mickyle\source\repos\FutureInnoLab\HangmanCON\HangmanCON\bin\Debug\netcoreapp3.1\HangmanCON.pdb
+C:\Users\Mickyle\source\repos\FutureInnoLab\HangmanCON\HangmanCON\obj\Debug\netcoreapp3.1\HangmanCON.csprojAssemblyReference.cache
+C:\Users\Mickyle\source\repos\FutureInnoLab\HangmanCON\HangmanCON\obj\Debug\netcoreapp3.1\HangmanCON.AssemblyInfoInputs.cache
+C:\Users\Mickyle\source\repos\FutureInnoLab\HangmanCON\HangmanCON\obj\Debug\netcoreapp3.1\HangmanCON.AssemblyInfo.cs
+C:\Users\Mickyle\source\repos\FutureInnoLab\HangmanCON\HangmanCON\obj\Debug\netcoreapp3.1\HangmanCON.csproj.CoreCompileInputs.cache
+C:\Users\Mickyle\source\repos\FutureInnoLab\HangmanCON\HangmanCON\obj\Debug\netcoreapp3.1\HangmanCON.dll
+C:\Users\Mickyle\source\repos\FutureInnoLab\HangmanCON\HangmanCON\obj\Debug\netcoreapp3.1\HangmanCON.pdb
+C:\Users\Mickyle\source\repos\FutureInnoLab\HangmanCON\HangmanCON\obj\Debug\netcoreapp3.1\HangmanCON.genruntimeconfig.cache
+C:\Users\Siyavhuya Ndayi\Documents\FutureInnoLab-master\HangmanCON\HangmanCON\bin\Debug\netcoreapp3.1\HangmanCON.exe
+C:\Users\Siyavhuya Ndayi\Documents\FutureInnoLab-master\HangmanCON\HangmanCON\bin\Debug\netcoreapp3.1\HangmanCON.deps.json
+C:\Users\Siyavhuya Ndayi\Documents\FutureInnoLab-master\HangmanCON\HangmanCON\bin\Debug\netcoreapp3.1\HangmanCON.runtimeconfig.json
+C:\Users\Siyavhuya Ndayi\Documents\FutureInnoLab-master\HangmanCON\HangmanCON\bin\Debug\netcoreapp3.1\HangmanCON.runtimeconfig.dev.json
+C:\Users\Siyavhuya Ndayi\Documents\FutureInnoLab-master\HangmanCON\HangmanCON\bin\Debug\netcoreapp3.1\HangmanCON.dll
+C:\Users\Siyavhuya Ndayi\Documents\FutureInnoLab-master\HangmanCON\HangmanCON\bin\Debug\netcoreapp3.1\HangmanCON.pdb
+C:\Users\Siyavhuya Ndayi\Documents\FutureInnoLab-master\HangmanCON\HangmanCON\obj\Debug\netcoreapp3.1\HangmanCON.csprojAssemblyReference.cache
+C:\Users\Siyavhuya Ndayi\Documents\FutureInnoLab-master\HangmanCON\HangmanCON\obj\Debug\netcoreapp3.1\HangmanCON.AssemblyInfoInputs.cache
+C:\Users\Siyavhuya Ndayi\Documents\FutureInnoLab-master\HangmanCON\HangmanCON\obj\Debug\netcoreapp3.1\HangmanCON.AssemblyInfo.cs
+C:\Users\Siyavhuya Ndayi\Documents\FutureInnoLab-master\HangmanCON\HangmanCON\obj\Debug\netcoreapp3.1\HangmanCON.csproj.CoreCompileInputs.cache
+C:\Users\Siyavhuya Ndayi\Documents\FutureInnoLab-master\HangmanCON\HangmanCON\obj\Debug\netcoreapp3.1\HangmanCON.dll
+C:\Users\Siyavhuya Ndayi\Documents\FutureInnoLab-master\HangmanCON\HangmanCON\obj\Debug\netcoreapp3.1\HangmanCON.pdb
+C:\Users\Siyavhuya Ndayi\Documents\FutureInnoLab-master\HangmanCON\HangmanCON\obj\Debug\netcoreapp3.1\HangmanCON.genruntimeconfig.cache
